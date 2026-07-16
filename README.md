@@ -25,11 +25,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanket-dev1/sanket-dev1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sanket-dev1/sanket-dev1/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanket-dev1/sanket-dev1/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
