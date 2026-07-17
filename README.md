@@ -25,6 +25,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanket-dev1/sanket-dev1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sanket-dev1/sanket-dev1/tree/master/0203-remove-linked-list-elements) |
@@ -38,5 +39,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/sanket-dev1/sanket-dev1/tree/master/0203-remove-linked-list-elements) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
