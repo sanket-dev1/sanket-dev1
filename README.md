@@ -48,6 +48,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0445-add-two-numbers-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Stack
 |  |
 | ------- |
@@ -60,4 +61,12 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
