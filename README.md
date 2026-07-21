@@ -29,6 +29,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/sanket-dev1/sanket-dev1/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sanket-dev1/sanket-dev1/tree/master/0138-copy-list-with-random-pointer) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/sanket-dev1/sanket-dev1/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/sanket-dev1/sanket-dev1/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
