@@ -30,6 +30,7 @@
 | [0002-add-two-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sanket-dev1/sanket-dev1/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanket-dev1/sanket-dev1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sanket-dev1/sanket-dev1/tree/master/0203-remove-linked-list-elements) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanket-dev1/sanket-dev1/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
