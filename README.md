@@ -35,6 +35,7 @@
 | [0203-remove-linked-list-elements](https://github.com/sanket-dev1/sanket-dev1/tree/master/0203-remove-linked-list-elements) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0445-add-two-numbers-ii) |
+| [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0445-add-two-numbers-ii) |
+| [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -67,9 +69,11 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 ## Array
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
@@ -93,4 +97,12 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
