@@ -10,6 +10,9 @@
  */
 class Solution {
     public ListNode insertionSortList(ListNode head) {
+        if(head==null || head.next==null){
+            return head;
+        }
         ListNode helpher=new ListNode(0);
         ListNode curr=head;
         ListNode pre=helpher;
