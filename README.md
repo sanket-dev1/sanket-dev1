@@ -63,6 +63,7 @@
 | [0445-add-two-numbers-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0445-add-two-numbers-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -116,4 +118,12 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0147-insertion-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
