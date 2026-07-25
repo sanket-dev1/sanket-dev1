@@ -42,6 +42,7 @@
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/sanket-dev1/sanket-dev1/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Two Pointers
 |  |
 | ------- |
