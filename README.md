@@ -90,6 +90,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanket-dev1/sanket-dev1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0147-insertion-sort-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sanket-dev1/sanket-dev1/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanket-dev1/sanket-dev1/tree/master/0084-largest-rectangle-in-histogram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
