@@ -76,6 +76,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sanket-dev1/sanket-dev1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/sanket-dev1/sanket-dev1/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0445-add-two-numbers-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
@@ -165,4 +166,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
