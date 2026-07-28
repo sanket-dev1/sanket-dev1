@@ -1,4 +1,3 @@
-import java.util.Stack;
 
 class Pair {
     int first;
