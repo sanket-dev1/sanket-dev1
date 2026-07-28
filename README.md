@@ -23,6 +23,7 @@
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/sanket-dev1/sanket-dev1/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanket-dev1/sanket-dev1/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/0496-next-greater-element-i) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
@@ -76,6 +77,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sanket-dev1/sanket-dev1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/sanket-dev1/sanket-dev1/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanket-dev1/sanket-dev1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
@@ -160,6 +163,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanket-dev1/sanket-dev1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
