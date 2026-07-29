@@ -130,10 +130,12 @@
 | ------- |
 | [0155-min-stack](https://github.com/sanket-dev1/sanket-dev1/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sanket-dev1/sanket-dev1/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/sanket-dev1/sanket-dev1/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/sanket-dev1/sanket-dev1/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 ## Sorting
 |  |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sanket-dev1/sanket-dev1/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/sanket-dev1/sanket-dev1/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
