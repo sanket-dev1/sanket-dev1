@@ -25,6 +25,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sanket-dev1/sanket-dev1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/0496-next-greater-element-i) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
@@ -128,6 +129,7 @@
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
@@ -152,6 +154,7 @@
 | [0147-insertion-sort-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sanket-dev1/sanket-dev1/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -194,6 +197,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
@@ -202,6 +206,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |
