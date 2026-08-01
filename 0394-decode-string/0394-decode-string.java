@@ -1,30 +1,42 @@
 class Solution {
-    int i = 0;
     public String decodeString(String s) {
-        i = 0;
-        return decode(s);
-    }
-    private String decode(String s) {
-        StringBuilder res = new StringBuilder();
-        int num = 0;
-        while (i < s.length()) {
-            char c = s.charAt(i);
-            if (Character.isDigit(c)) {
-                num = num * 10 + (c - '0');
-                i++;
-            } else if (c == '[') {
-                i++;
-                String inner = decode(s);
-                for (int k = 0; k < num; k++) res.append(inner);
-                num = 0;
-            } else if (c == ']') {
-                i++;
-                return res.toString();
+        if (s == null || s.length() == 0) return s;
+        
+        int currNum = 0;
+        Stack<Integer> intStack = new Stack<>();
+        Stack<String> strStack = new Stack<>();
+
+        for (char x : s.toCharArray()) {
+            if (x >= '0' && x <= '9') {
+                currNum = (currNum * 10) + (x - '0');
             } else {
-                res.append(c);
-                i++;
+                if (x == '[') {
+                    intStack.push(currNum);
+                    currNum = 0;
+                    strStack.push(String.valueOf(x));
+                } else if (x == ']') {
+                    String temp = "";
+                    while (!strStack.isEmpty() && !strStack.peek().equals("[")) {
+                        temp = strStack.pop() + temp;
+                    }
+                    strStack.pop(); // Remove "["
+                    
+                    int num = intStack.pop();
+                    StringBuilder tempAns = new StringBuilder();
+                    for (int i = 0; i < num; ++i) {
+                        tempAns.append(temp);
+                    }
+                    strStack.push(tempAns.toString());
+                } else {
+                    strStack.push(String.valueOf(x));
+                }
             }
         }
-        return res.toString();
+        
+        String ans = "";
+        while (!strStack.isEmpty()) {
+            ans = strStack.pop() + ans;
+        }
+        return ans;
     }
 }
