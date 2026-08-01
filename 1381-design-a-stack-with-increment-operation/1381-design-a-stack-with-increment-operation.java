@@ -14,7 +14,7 @@ class CustomStack {
     
     public int pop() {
         if(top != -1){
-            return stack[top--];
+            return this.stack[top--];
         }
         return -1;
     }
