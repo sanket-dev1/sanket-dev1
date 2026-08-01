@@ -88,6 +88,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sanket-dev1/sanket-dev1/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Depth-First Search
@@ -107,6 +108,7 @@
 | [0496-next-greater-element-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/sanket-dev1/sanket-dev1/tree/master/0733-flood-fill) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sanket-dev1/sanket-dev1/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -142,6 +144,7 @@
 | [0155-min-stack](https://github.com/sanket-dev1/sanket-dev1/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sanket-dev1/sanket-dev1/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/sanket-dev1/sanket-dev1/tree/master/0933-number-of-recent-calls) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sanket-dev1/sanket-dev1/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
