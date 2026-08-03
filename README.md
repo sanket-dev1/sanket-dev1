@@ -87,6 +87,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/sanket-dev1/sanket-dev1/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/sanket-dev1/sanket-dev1/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/sanket-dev1/sanket-dev1/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanket-dev1/sanket-dev1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/sanket-dev1/sanket-dev1/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/sanket-dev1/sanket-dev1/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0628-maximum-product-of-three-numbers) |
@@ -129,6 +131,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/sanket-dev1/sanket-dev1/tree/master/0456-132-pattern) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanket-dev1/sanket-dev1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/sanket-dev1/sanket-dev1/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
@@ -251,4 +255,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/sanket-dev1/sanket-dev1/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
