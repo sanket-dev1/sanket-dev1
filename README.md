@@ -28,6 +28,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/sanket-dev1/sanket-dev1/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/sanket-dev1/sanket-dev1/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sanket-dev1/sanket-dev1/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/sanket-dev1/sanket-dev1/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
