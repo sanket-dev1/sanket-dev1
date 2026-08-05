@@ -47,6 +47,7 @@
 | [0622-design-circular-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/0622-design-circular-queue) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/sanket-dev1/sanket-dev1/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Two Pointers
@@ -110,6 +111,7 @@
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/1670-design-front-middle-back-queue) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/1670-design-front-middle-back-queue) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
@@ -164,11 +167,13 @@
 | [0933-number-of-recent-calls](https://github.com/sanket-dev1/sanket-dev1/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sanket-dev1/sanket-dev1/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/1670-design-front-middle-back-queue) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sanket-dev1/sanket-dev1/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/1670-design-front-middle-back-queue) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +206,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/sanket-dev1/sanket-dev1/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/sanket-dev1/sanket-dev1/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
