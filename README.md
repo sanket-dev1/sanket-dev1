@@ -103,6 +103,7 @@
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0733-flood-fill](https://github.com/sanket-dev1/sanket-dev1/tree/master/0733-flood-fill) |
+| [3310-remove-methods-from-project](https://github.com/sanket-dev1/sanket-dev1/tree/master/3310-remove-methods-from-project) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/sanket-dev1/sanket-dev1/tree/master/0733-flood-fill) |
+| [3310-remove-methods-from-project](https://github.com/sanket-dev1/sanket-dev1/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -266,4 +268,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sanket-dev1/sanket-dev1/tree/master/0456-132-pattern) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/sanket-dev1/sanket-dev1/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
