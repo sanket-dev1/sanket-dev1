@@ -78,6 +78,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sanket-dev1/sanket-dev1/tree/master/3536-maximum-product-of-two-digits) |
@@ -191,6 +192,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Reservoir Sampling
 |  |
