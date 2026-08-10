@@ -76,6 +76,7 @@
 | [0486-predict-the-winner](https://github.com/sanket-dev1/sanket-dev1/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
@@ -266,12 +267,14 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/sanket-dev1/sanket-dev1/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sanket-dev1/sanket-dev1/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -280,10 +283,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
 ## Ordered Set
 |  |
 | ------- |
@@ -296,4 +301,12 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
