@@ -25,6 +25,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sanket-dev1/sanket-dev1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/0496-next-greater-element-i) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanket-dev1/sanket-dev1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -134,6 +135,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/1670-design-front-middle-back-queue) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanket-dev1/sanket-dev1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/sanket-dev1/sanket-dev1/tree/master/3731-find-missing-elements) |
@@ -185,6 +187,7 @@
 | [0147-insertion-sort-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanket-dev1/sanket-dev1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sanket-dev1/sanket-dev1/tree/master/3536-maximum-product-of-two-digits) |
