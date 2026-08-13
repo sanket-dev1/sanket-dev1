@@ -138,6 +138,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/1670-design-front-middle-back-queue) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sanket-dev1/sanket-dev1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanket-dev1/sanket-dev1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanket-dev1/sanket-dev1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
@@ -243,6 +244,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sanket-dev1/sanket-dev1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sanket-dev1/sanket-dev1/tree/master/0456-132-pattern) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sanket-dev1/sanket-dev1/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Graph Theory
 |  |
 | ------- |
@@ -324,4 +327,8 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanket-dev1/sanket-dev1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sanket-dev1/sanket-dev1/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
