@@ -144,6 +144,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanket-dev1/sanket-dev1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanket-dev1/sanket-dev1/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/sanket-dev1/sanket-dev1/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanket-dev1/sanket-dev1/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
 | ------- |
