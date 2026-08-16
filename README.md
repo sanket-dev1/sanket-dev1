@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanket-dev1/sanket-dev1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/sanket-dev1/sanket-dev1/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sanket-dev1/sanket-dev1/tree/master/0232-implement-queue-using-stacks) |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/1021-remove-outermost-parentheses) |
@@ -286,6 +288,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/sanket-dev1/sanket-dev1/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
@@ -344,4 +347,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanket-dev1/sanket-dev1/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
