@@ -82,6 +82,7 @@
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -139,6 +140,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/1670-design-front-middle-back-queue) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanket-dev1/sanket-dev1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanket-dev1/sanket-dev1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanket-dev1/sanket-dev1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/sanket-dev1/sanket-dev1/tree/master/0621-task-scheduler) |
+| [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -262,6 +265,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -292,6 +296,7 @@
 | [0486-predict-the-winner](https://github.com/sanket-dev1/sanket-dev1/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -301,11 +306,13 @@
 | ------- |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
@@ -323,6 +330,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
