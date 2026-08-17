@@ -81,6 +81,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sanket-dev1/sanket-dev1/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sanket-dev1/sanket-dev1/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -138,6 +139,7 @@
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
+| [1563-stone-game-v](https://github.com/sanket-dev1/sanket-dev1/tree/master/1563-stone-game-v) |
 | [1670-design-front-middle-back-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/1670-design-front-middle-back-queue) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -292,6 +294,7 @@
 | [0486-predict-the-winner](https://github.com/sanket-dev1/sanket-dev1/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sanket-dev1/sanket-dev1/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -299,6 +302,7 @@
 | [0486-predict-the-winner](https://github.com/sanket-dev1/sanket-dev1/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sanket-dev1/sanket-dev1/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
