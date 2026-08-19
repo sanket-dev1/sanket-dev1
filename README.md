@@ -26,6 +26,7 @@
 | [0496-next-greater-element-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/sanket-dev1/sanket-dev1/tree/master/0621-task-scheduler) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1386-cinema-seat-allocation](https://github.com/sanket-dev1/sanket-dev1/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanket-dev1/sanket-dev1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanket-dev1/sanket-dev1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -137,6 +138,7 @@
 | [0733-flood-fill](https://github.com/sanket-dev1/sanket-dev1/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sanket-dev1/sanket-dev1/tree/master/0735-asteroid-collision) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sanket-dev1/sanket-dev1/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1386-cinema-seat-allocation](https://github.com/sanket-dev1/sanket-dev1/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/sanket-dev1/sanket-dev1/tree/master/1472-design-browser-history) |
@@ -212,6 +214,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/sanket-dev1/sanket-dev1/tree/master/1386-cinema-seat-allocation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanket-dev1/sanket-dev1/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
@@ -269,6 +272,7 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/sanket-dev1/sanket-dev1/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1386-cinema-seat-allocation](https://github.com/sanket-dev1/sanket-dev1/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
