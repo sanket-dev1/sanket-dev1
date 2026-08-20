@@ -99,6 +99,7 @@
 | [0020-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanket-dev1/sanket-dev1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/sanket-dev1/sanket-dev1/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sanket-dev1/sanket-dev1/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/0394-decode-string) |
@@ -116,6 +117,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0733-flood-fill](https://github.com/sanket-dev1/sanket-dev1/tree/master/0733-flood-fill) |
 | [3310-remove-methods-from-project](https://github.com/sanket-dev1/sanket-dev1/tree/master/3310-remove-methods-from-project) |
@@ -363,4 +365,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
