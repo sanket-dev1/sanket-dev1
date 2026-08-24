@@ -84,6 +84,7 @@
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sanket-dev1/sanket-dev1/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanket-dev1/sanket-dev1/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
@@ -150,6 +151,7 @@
 | [1563-stone-game-v](https://github.com/sanket-dev1/sanket-dev1/tree/master/1563-stone-game-v) |
 | [1670-design-front-middle-back-queue](https://github.com/sanket-dev1/sanket-dev1/tree/master/1670-design-front-middle-back-queue) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1872-stone-game-viii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanket-dev1/sanket-dev1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanket-dev1/sanket-dev1/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -192,6 +194,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanket-dev1/sanket-dev1/tree/master/3312-sorted-gcd-pair-queries) |
 ## Design
 |  |
@@ -314,6 +317,7 @@
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sanket-dev1/sanket-dev1/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -322,6 +326,7 @@
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sanket-dev1/sanket-dev1/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanket-dev1/sanket-dev1/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 ## Simulation
@@ -334,12 +339,14 @@
 | ------- |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sanket-dev1/sanket-dev1/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
