@@ -67,6 +67,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sanket-dev1/sanket-dev1/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanket-dev1/sanket-dev1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanket-dev1/sanket-dev1/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanket-dev1/sanket-dev1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanket-dev1/sanket-dev1/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanket-dev1/sanket-dev1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanket-dev1/sanket-dev1/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
