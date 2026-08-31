@@ -31,17 +31,15 @@ class Solution {
         }
 
         // Maximum distance = last critical point - first critical point
-        int max = ls.get(ls.size() - 1) - ls.get(0);
+        int max=ls.get(ls.size()-1)-ls.get(0);
 
         // Minimum distance between consecutive critical points
-        int min = Integer.MAX_VALUE;
-
-        for (int i = 1; i < ls.size(); i++) {
-            int distance = ls.get(i) - ls.get(i - 1);
-            min = Math.min(min, distance);
+        int min = Integer.MAX_VALUE;//or 100000
+        for(int i=1;i<ls.size();i++){
+            int distance=ls.get(i)-ls.get(i-1);
+            min=Math.min(min,distance);
         }
-
-        return new int[]{min, max};
+        return new int[]{min,max};
     }
 }
 
