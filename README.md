@@ -293,6 +293,7 @@
 | [0115-distinct-subsequences](https://github.com/sanket-dev1/sanket-dev1/tree/master/0115-distinct-subsequences) |
 | [0394-decode-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -345,6 +346,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sanket-dev1/sanket-dev1/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/sanket-dev1/sanket-dev1/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanket-dev1/sanket-dev1/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sanket-dev1/sanket-dev1/tree/master/1563-stone-game-v) |
