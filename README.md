@@ -133,6 +133,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0733-flood-fill](https://github.com/sanket-dev1/sanket-dev1/tree/master/0733-flood-fill) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanket-dev1/sanket-dev1/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/sanket-dev1/sanket-dev1/tree/master/3310-remove-methods-from-project) |
 ## Doubly-Linked List
 |  |
@@ -423,10 +424,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0094-binary-tree-inorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanket-dev1/sanket-dev1/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0094-binary-tree-inorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanket-dev1/sanket-dev1/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
 | ------- |
