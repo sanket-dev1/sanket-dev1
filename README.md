@@ -343,6 +343,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0102-binary-tree-level-order-traversal) |
 | [0733-flood-fill](https://github.com/sanket-dev1/sanket-dev1/tree/master/0733-flood-fill) |
 | [3310-remove-methods-from-project](https://github.com/sanket-dev1/sanket-dev1/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanket-dev1/sanket-dev1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -434,11 +435,13 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0102-binary-tree-level-order-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanket-dev1/sanket-dev1/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0102-binary-tree-level-order-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanket-dev1/sanket-dev1/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
