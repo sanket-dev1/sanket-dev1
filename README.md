@@ -42,6 +42,7 @@
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -50,9 +51,11 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
