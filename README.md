@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sanket-dev1/sanket-dev1/tree/master/0009-palindrome-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sanket-dev1/sanket-dev1/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0637-average-of-levels-in-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sanket-dev1/sanket-dev1/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
