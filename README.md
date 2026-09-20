@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanket-dev1/sanket-dev1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanket-dev1/sanket-dev1/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
