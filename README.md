@@ -24,6 +24,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/sanket-dev1/sanket-dev1/tree/master/0009-palindrome-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanket-dev1/sanket-dev1/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3524-find-x-value-of-array-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
