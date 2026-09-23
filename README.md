@@ -25,6 +25,7 @@
 | [0009-palindrome-number](https://github.com/sanket-dev1/sanket-dev1/tree/master/0009-palindrome-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanket-dev1/sanket-dev1/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,8 +74,13 @@
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3525-find-x-value-of-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3524-find-x-value-of-array-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
