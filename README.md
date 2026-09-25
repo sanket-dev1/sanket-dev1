@@ -30,11 +30,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanket-dev1/sanket-dev1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanket-dev1/sanket-dev1/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanket-dev1/sanket-dev1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -44,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanket-dev1/sanket-dev1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Tree
 |  |
@@ -64,6 +67,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket-dev1/sanket-dev1/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -110,4 +114,12 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket-dev1/sanket-dev1/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
