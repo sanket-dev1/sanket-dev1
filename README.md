@@ -53,6 +53,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket-dev1/sanket-dev1/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -62,6 +63,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket-dev1/sanket-dev1/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sanket-dev1/sanket-dev1/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -69,6 +71,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket-dev1/sanket-dev1/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -79,6 +82,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket-dev1/sanket-dev1/tree/master/0116-populating-next-right-pointers-in-each-node) |
