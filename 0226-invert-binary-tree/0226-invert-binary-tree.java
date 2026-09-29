@@ -13,24 +13,47 @@
  *     }
  * }
  */
+
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        LinkedList<TreeNode> list=new LinkedList<>();
-        if(root!=null){
-            list.add(root);
+        if(root==null){
+            return null;
         }
-        while(!list.isEmpty()){
-            TreeNode temp=list.poll();
-            if(temp.left!=null){
-                list.add(temp.left);
-            }
-            if(temp.right!=null){
-                list.add(temp.right);
-            }
-            TreeNode curr = temp.left;
-            temp.left = temp.right;
-            temp.right = curr;
-        }
+        TreeNode left=invertTree(root.left);
+        TreeNode right=invertTree(root.right);
+        root.left=right;
+        root.right=left;
         return root;
     }
 }
+
+
+
+
+
+
+
+
+
+
+// class Solution {
+//     public TreeNode invertTree(TreeNode root) {
+//         LinkedList<TreeNode> list=new LinkedList<>();
+//         if(root!=null){
+//             list.add(root);
+//         }
+//         while(!list.isEmpty()){
+//             TreeNode temp=list.poll();
+//             if(temp.left!=null){
+//                 list.add(temp.left);
+//             }
+//             if(temp.right!=null){
+//                 list.add(temp.right);
+//             }
+//             TreeNode curr = temp.left;
+//             temp.left = temp.right;
+//             temp.right = curr;
+//         }
+//         return root;
+//     }
+// }
