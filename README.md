@@ -60,6 +60,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket-dev1/sanket-dev1/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sanket-dev1/sanket-dev1/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0226-invert-binary-tree) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket-dev1/sanket-dev1/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sanket-dev1/sanket-dev1/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0226-invert-binary-tree) |
@@ -98,6 +100,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket-dev1/sanket-dev1/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sanket-dev1/sanket-dev1/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0226-invert-binary-tree) |
@@ -146,6 +149,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket-dev1/sanket-dev1/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Backtracking
 |  |
@@ -154,6 +158,7 @@
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
