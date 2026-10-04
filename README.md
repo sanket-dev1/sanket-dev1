@@ -40,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sanket-dev1/sanket-dev1/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -50,6 +51,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanket-dev1/sanket-dev1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
@@ -137,6 +139,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanket-dev1/sanket-dev1/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/sanket-dev1/sanket-dev1/tree/master/3524-find-x-value-of-array-i) |
 ## Segment Tree
@@ -171,6 +174,7 @@
 | [0020-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sanket-dev1/sanket-dev1/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -181,6 +185,7 @@
 | [0020-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sanket-dev1/sanket-dev1/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
