@@ -40,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-dev1/sanket-dev1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -104,6 +105,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanket-dev1/sanket-dev1/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sanket-dev1/sanket-dev1/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0301-remove-invalid-parentheses) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0993-cousins-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/sanket-dev1/sanket-dev1/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
