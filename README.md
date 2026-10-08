@@ -30,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanket-dev1/sanket-dev1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanket-dev1/sanket-dev1/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -70,6 +71,7 @@
 | [0101-symmetric-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -117,6 +119,7 @@
 | [0101-symmetric-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sanket-dev1/sanket-dev1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanket-dev1/sanket-dev1/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -139,6 +142,7 @@
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanket-dev1/sanket-dev1/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanket-dev1/sanket-dev1/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -220,6 +224,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanket-dev1/sanket-dev1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanket-dev1/sanket-dev1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
